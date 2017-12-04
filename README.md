@@ -7,6 +7,8 @@ This is a simple test to see if I can host Unity games via github pages. I made 
 
 1. Click on the designated link:     https://wholetpaulin.github.io/activityPicker/
 
+2. Wait ~10 seconds at the gray loading screen for the game to load. (Sorry for the large load Github!)
+
 2. Use the wasd or arrow keys to roll the ball around to pick up the game pieces.
 
 3. Collect all the yellow pieces to win!
